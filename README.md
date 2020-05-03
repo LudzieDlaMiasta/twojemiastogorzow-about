@@ -5,7 +5,7 @@
 ## Informacje ogólne
 **"Twoje Miasto Gorzów - platforma społeczności miejskiej"** (TMG) jest projekt wdrażający ideę **Smart City 3.0**, mający na celu zwiększenie zaangażowania obywatelskiego mieszkańców oraz integrację środowisk miejskich (organizacji pozarządowych, przedsiębiorców, instytucje publiczne) przy użyciu technologii informacyjno-komunikacyjnych (TIK).  
 
-!Logo Twoje Miasto Gorzów](assets/tmg-logo.svg){:width=250px}
+![Logo Twoje Miasto Gorzów](assets/tmg-logo.svg | width=250)
 
 
 Platforma TMG składa się z następujących rozwiązań:
@@ -16,7 +16,7 @@ Platforma TMG składa się z następujących rozwiązań:
  * [moduły dedykowanych aplikacji](./moduly-aplikacyjne.md);
 
 Projekt jest elementem działania w ramach inicjatywy [Smart City Gorzów](https://smartcity.gorzow.pl).
-![SmartCity Gorzów](assets/smartcity-logo.svg){:width=250px}
+![SmartCity Gorzów](assets/smartcity-logo.svg | width=250)
 
 ## Zarządzanie projektem
 
