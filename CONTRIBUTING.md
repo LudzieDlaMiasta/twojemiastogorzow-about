@@ -42,7 +42,7 @@ Dlatego jeśli chcesz wesprzeć rozwój platformy, prosimy o [dokonywanie darowi
 ## Wspólpraca przy realizacji projektu
 
 Partnerami projektu są:
- * [make-SOFT Marcin Kazimierczak](https://www.make-soft.pl/) - partner technologiczny, który dostarcza platformę w fromie usługi (Platform-As-A-Service), w szczególności odpowiada za rozwój funkcjonalności platformy oraz jej utrzymanie (development, infrastruktura, bezpieczeństwo informacji, pełnienie funkcji IOD).
+ * [make-SOFT](https://www.make-soft.pl/) - partner technologiczny, który dostarcza platformę w fromie usługi (Platform-As-A-Service), w szczególności odpowiada za rozwój funkcjonalności platformy oraz jej utrzymanie (development, infrastruktura, bezpieczeństwo informacji, pełnienie funkcji IOD).
 
 ## Zgłaszanie błędów i ulepszeń
 Jeśli znalazłeś błąd, propozycję funkcjonalności do istniejących modułów lub jeśli masz pomysł na coś nowego - [zgłoś problem lub propozycję](./issues).  
