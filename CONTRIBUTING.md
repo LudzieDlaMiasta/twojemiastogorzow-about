@@ -13,8 +13,10 @@ Chcielibyśmy, na ile to możliwe powstrzymać się od komercjalizacji platformy
 
 Próbowaliśmy pozyskać środki na realizację projektu z [Narodowego Instytutu Wolności](https://www.niw.gov.pl/) w ramach działań PROO oraz FIO, lecz mimo wysokich ocen nie udało się zdobyć finansowania. Dlatego staramy się zrealizować projekt działaniami oddolnymi, w oparciu do partnerstwo z innymi podmiotami oraz w formie wolontariatu, choć jesteśmy świadomi, że utrzymanie platformy i jej stabilny rozwój, koordynowanie działań i działania marketingowe wymagają znacznego wysiłku, ciągłych działań oraz środków finansowych.
 
-## Struktura organizacyjna projektu
+## Zarządzanie rozwojem
+Projekt realizowany jest w modelu zwinnego wytwarzania oprogramowania - przyjęty obecnie okres sprintu wynosi 3 miesiące, w trakcie którego realizowane są działania: zarządzanie projektem,  prace projektowe i rozwojowe (development), testy, wdrażanie wydania.
 
+## Struktura organizacyjna projektu
 Stowarzyszenie [Ruch Miejski Ludzie Dla Miasta](https://www.ludziedlamiasta.pl/) jest operatorem platformy, koordynującym działania w zakresie określania kierunków rozwoju, administrowania platformą, aktualizacji danych, marketingu i promocji platformy.
 
 Uchwałą Zarządu Ruchu Miejskiego Ludzie Dla Miasta został powołany Komitet Sterujący Projektu:
@@ -24,25 +26,14 @@ Uchwałą Zarządu Ruchu Miejskiego Ludzie Dla Miasta został powołany Komitet 
 
 Zadaniem Komitetu Sterującego jest podejmowanie decyzji w zakresie kierunków podejmowanych działań oraz nadzór w zakresie zarządzania i eksploatacji platformy oraz odbiór produktów projektu.
 
-### Umowa o wkład
-Każdy, kto chce wnieść wkład w Projekcie TMG, musi przeczytać i podpisać naszą [umowę licencyjną dla współtwórców](CLA.md).
+## Wspólpraca przy realizacji projektu
+Partnerami projektu są:
+ * [make-SOFT](https://www.make-soft.pl/) - partner technologiczny, który dostarcza platformę w fromie usługi (Platform-As-A-Service), w szczególności odpowiada za rozwój funkcjonalności platformy oraz jej utrzymanie (development, infrastruktura, bezpieczeństwo informacji, pełnienie funkcji IOD).
 
-Nasz Zespół Projektowy jest prawnie zabroniony przyjmowania wkładu od użytkowników, którzy nie podpisali jeszcze umowy licencyjnej dla współtwórców.
-
-## Jak mogę pomóc?
-Znajdziesz tutaj przydatne informacje, w jaki sposób możesz uczestniczyć w realizacji projeektu.
-## Zarządzanie rozwojem
-Projekt realizowany jest w modelu Agile - przyjęty obecnie okres sprintu wynosi 3 miesiące, w trakcie którego realizowane są działania: zarządzanie projektem,  prace projektowe i rozwojowe (development), testy, wdrażanie wydania.
-
-Po przetestowaniu platformy następuje wdrożenie zmian i rozpoczęcie zadań związanych z aktualizacją danych oraz utrzymaniem technicznym.
+Jeśli chcesz wnieść swój wkład w Projekcie TMG, musisz przeczytać i zaakceptować naszą [umowę licencyjną dla współtwórców](CLA.md).
 
 ## Finansowanie projektu
 Dlatego jeśli chcesz wesprzeć rozwój platformy, prosimy o [dokonywanie darowizn](https://www.ludziedlamiasta.pl/stowarzyszenie/przylacz-sie/) lub o zaangażowanie się w formie wolontariatu (np. testowania funkcjonalności, aktualizacji danych, promowania działań w mediach społecznościowych, opracowywania treści oraz grafiki).
-
-## Wspólpraca przy realizacji projektu
-
-Partnerami projektu są:
- * [make-SOFT](https://www.make-soft.pl/) - partner technologiczny, który dostarcza platformę w fromie usługi (Platform-As-A-Service), w szczególności odpowiada za rozwój funkcjonalności platformy oraz jej utrzymanie (development, infrastruktura, bezpieczeństwo informacji, pełnienie funkcji IOD).
 
 ## Zgłaszanie błędów i ulepszeń
 Jeśli znalazłeś błąd, propozycję funkcjonalności do istniejących modułów lub jeśli masz pomysł na coś nowego - [zgłoś problem lub propozycję](./issues).  
