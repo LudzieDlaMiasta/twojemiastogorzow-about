@@ -1,13 +1,22 @@
-# O projekcie "Twoje Miasto Gorzów - platforma społeczności miejskiej" 
+# O projekcie "Twoje Miasto Gorzów - platforma społeczności miejskiej"
 
 ![Twoje Miasto Gorzów header image](assets/tmg-header.png)
 
 ## Informacje ogólne
-**"Twoje Miasto Gorzów - platforma społeczności miejskiej"** jest projekt wdrażający ideę **Smart City 3.0**, mający na celu zwiększenie zaangażowania obywatelskiego mieszkańców oraz integrację środowisk miejskich (organizacji pozarządowych, przedsiębiorców, instytucje publiczne) przy użyciu technologii informacyjno-komunikacyjnych (TIK).  
+**"Twoje Miasto Gorzów - platforma społeczności miejskiej"** (TMG) jest projekt wdrażający ideę **Smart City 3.0**, mający na celu zwiększenie zaangażowania obywatelskiego mieszkańców oraz integrację środowisk miejskich (organizacji pozarządowych, przedsiębiorców, instytucje publiczne) przy użyciu technologii informacyjno-komunikacyjnych (TIK).  
 
-Rozwój i udostępnianie kolejnych funkcjonalności platformy **Twoje Miasto Gorzów** będzie zależało głównie od możliwości organizacyjnych oraz finansowych.
+!Logo Twoje Miasto Gorzów](assets/tmg-logo.svg){:width=250px}
 
-Chcielibyśmy, na ile to możliwe powstrzymać się od komercjalizacji platformy, w szczególności umieszczania reklam i odpłatnych usług w ramach platformy wierząc, że możliwa jest współpraca w celu budowania społeczności miasta, zgodnie z ideą ruchów miejskich. 
+
+Platforma TMG składa się z następujących rozwiązań:
+ * platforma publicystyczna [Ghost](https://ghost.org/docs/);
+ * platforma dyskusyjna [Vanilla Forum](https://open.vanillaforums.com/);
+ * platforma automatyzacji marketingu [Mautic](https://www.mautic.org);
+ * platforma uwierzytelnienia [Keycloak](https://www.keycloak.org);
+ * [moduły dedykowanych aplikacji](./moduly-aplikacyjne.md);
+
+Projekt jest elementem działania w ramach inicjatywy [Smart City Gorzów](https://smartcity.gorzow.pl).
+![SmartCity Gorzów](assets/smartcity-logo.svg){:width=250px}
 
 ## Zarządzanie projektem
 
@@ -20,10 +29,20 @@ Uchwałą Zarządu Ruchu Miejskiego Ludzie Dla Miasta powołany został Komitet 
 
 Zadaniem Komitetu Sterującego jest podejmowanie decyzji w zakresie kierunków podejmowanych działań oraz nadzór w zakresie zarządzania i eksploatacji platformy.
 
+Projekt realizowany jest w modelu Agile - przyjęty obecnie okres sprintu wynosi 3 miesiące, w trakcie którego realizowane są działania: zarządzanie projektem,  prace projektowe i rozwojowe (development), testy, wdrażanie wydania.
+
+Po przetestowaniu platformy następuje wdrożenie zmian i rozpoczęcie zadań związanych z aktualizacją danych oraz utrzymaniem technicznym.
+
+Zobacz aktualną [mapę drogową](ROADMAP.md) projektu.
+
 ## Finansowanie projektu
 
-Jesteśmy organizacją pożytku publicznego zarejestrowaną jako stowarzyszenie, niedziałającą dla zysku. 
+Jesteśmy organizacją pożytku publicznego zarejestrowaną jako stowarzyszenie, niedziałającą dla zysku.
 Aby zapewnić stabilne działanie platformy, w szczególności aby zapewnić jej rozwój, koordynować projektem, dostarczać nowe funkcjonalności, tworzyć i aktualizować zbiory danych, organizować spotkania, konkursy oraz promować platformę.   
+
+Rozwój i udostępnianie kolejnych funkcjonalności platformy **Twoje Miasto Gorzów** będzie zależał głównie od możliwości organizacyjnych oraz finansowych.
+
+Chcielibyśmy, na ile to możliwe powstrzymać się od komercjalizacji platformy, w szczególności umieszczania reklam i odpłatnych usług w ramach platformy wierząc, że możliwa jest współpraca w celu budowania społeczności miasta, zgodnie z ideą ruchów miejskich.
 
 Próbowaliśmy pozyskać środki na realizację projektu z [Narodowego Instytutu Wolności](https://www.niw.gov.pl/) w ramach działań PROO oraz FIO, lecz mimo wysokich ocen nie udało się zdobyć finansowania. Dlatego staramy się zrealizować projekt działaniami oddolnymi, w oparciu do partnerstwo z innymi podmiotami oraz w formie wolontariatu.
 Ale utrzymanie platformy i jej stabilny rozwój, koordynowanie działań, marketing wymaga ponoszenia działań.
@@ -36,16 +55,8 @@ Jeśli chcesz zaangażować się we współtworzenie, animowanie działań oraz 
 Partnerami projektu są:
  * [make-SOFT Marcin Kazimierczak](https://www.make-soft.pl/) - partner technologiczny, który dostarcza usługę, w szczególności odpowiada za rozwój funkcjonalności platformy oraz jej utrzymanie (development, infrastruktura, bezpieczeństwo informacji, pełnienie funkcji IOD).
 
-## Roadmap
-
-Projekt realizowany jest w modelu Agile - przyjęty obecnie okres sprintu wynosi 3 miesiące, w trakcie którego realizowane są działania: zarządzanie projektem,  prace projektowe i rozwojowe (development), testy, wdrażanie wydania.
-
-Po przetestowaniu platformy następuje wdrożenie zmian i rozpoczęcie zadań związanych z aktualizacją danych oraz utrzymaniem technicznym.
-
-Zobacz aktualną [mapę drogową](ROADMAP.md) projektu.
-
 ## Błędy
-Jeśli znalazłeś błąd, propozycję funkcjonalności do istniejących modułów lub jeśli masz pomysł na coś nowego - wyślij email na adres zanjdujący się na końcu niniejszego dokumentu.  
+Jeśli znalazłeś błąd, propozycję funkcjonalności do istniejących modułów lub jeśli masz pomysł na coś nowego - [zgłoś problem lub propozycję](./issues).  
 
 ## Kontakt
  * **Ruch Miejski Ludzie Dla Miasta**
