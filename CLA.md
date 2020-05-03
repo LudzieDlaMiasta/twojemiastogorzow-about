@@ -36,6 +36,9 @@ Warunki te dotyczą twojego wkładu materiałów do produktu lub projektu stanow
  Twój podpis: 
  Data: 
   
-Aby dostarczyć nam te warunki, zeskanuj i wyślij e-mailem lub faksem podpisaną kopię, korzystając z adresu e-mail tmg@ludziedlamiasta.pl 
+Aby dostarczyć nam te warunki, wydrukuj i wyślij e-mailem skan podpisaną umowy, korzystając z adresu e-mail kontakt@ludziedlamiasta.pl
 
-Umowa z dostawcą Platformy TMG - wersja 2.0 Ten dokument jest objęty licencją Creative Commons Uznanie autorstwa Na tych samych warunkach 3.0 Unported Licencja http://creativecommons.org/licenses/bysa/3.0/ i oparty na oryginalnej pracy firmy Sun Microsystems. 
+___
+Umowa z dostawcą Platformy TMG - wersja 1.0 
+
+Ten dokument jest objęty licencją Creative Commons Uznanie autorstwa Na tych samych warunkach 3.0 Unported Licencja http://creativecommons.org/licenses/bysa/3.0/ i oparty na oryginalnej pracy firmy Sun Microsystems. 

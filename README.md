@@ -1,26 +1,30 @@
-# O projekcie "Twoje Miasto Gorzów - platforma społeczności miejskiej"
+# Twoje Miasto Gorzów - platforma społeczności miejskiej
 
 ![Twoje Miasto Gorzów header image](assets/tmg-header.png)
 
 ## Informacje ogólne
-**"Twoje Miasto Gorzów - platforma społeczności miejskiej"** (TMG) jest projekt wdrażający ideę **Smart City 3.0**, mający na celu zwiększenie zaangażowania obywatelskiego mieszkańców oraz integrację środowisk miejskich (organizacji pozarządowych, przedsiębiorców, instytucje publiczne) przy użyciu technologii informacyjno-komunikacyjnych (TIK).  
+**"Twoje Miasto Gorzów - platforma społeczności miejskiej"** (Platforma TMG) jest projekt wdrażający ideę **Smart City 3.0**, mający na celu zwiększenie zaangażowania obywatelskiego mieszkańców oraz integrację środowisk miejskich (organizacji pozarządowych, przedsiębiorców, instytucje publiczne) przy użyciu technologii informacyjno-komunikacyjnych (TIK).  
 
-![Logo Twoje Miasto Gorzów](assets/tmg-logo.svg | width=250)
-
-
-Platforma TMG składa się z następujących rozwiązań:
- * platforma publicystyczna [Ghost](https://ghost.org/docs/);
- * platforma dyskusyjna [Vanilla Forum](https://open.vanillaforums.com/);
- * platforma automatyzacji marketingu [Mautic](https://www.mautic.org);
- * platforma uwierzytelnienia [Keycloak](https://www.keycloak.org);
- * [moduły dedykowanych aplikacji](./moduly-aplikacyjne.md);
-
-Jeśli chcesz przyczynić się do realizacji projektu, zajrzyj do [zasad współpracy](CONTRIBUTION.md).
-
-Zobacz aktualną [mapę drogową](ROADMAP.md) projektu.
+<img src="assets/tmg-logo.svg" width="250" alt="Logo TMG" />
 
 Projekt jest elementem działania w ramach inicjatywy [Smart City Gorzów](https://smartcity.gorzow.pl).
-![SmartCity Gorzów](assets/smartcity-logo.svg | width=250)
+<a href="https://smartcity.gorzow.pl/"><img src="assets/smartcity-logo.svg" width="250" alt="Logo TMG" /></a>
+
+## Architektura techniczna platformy
+Platforma TMG składa się z następujących rozwiązań:
+ * platforma publicystyczna [Ghost](https://ghost.org/docs/)
+ * platforma dyskusyjna [Vanilla Forum](https://open.vanillaforums.com/)
+ * platforma automatyzacji marketingu [Mautic](https://www.mautic.org)
+ * platforma uwierzytelnienia [Keycloak](https://www.keycloak.org)
+ * [moduły dedykowanych aplikacji](./moduly-aplikacyjne.md)
+ * platforma integracyjna Pentaho (Pentaho Data Integration, Mondrian)
+
+## Współpraca i rozwój
+Zobacz, jak możesz się [włączyć w realizację projektu](CONTRIBUTING.md) projektu.
+
+
+## Mapa drogowa
+Zobacz aktualną [mapę drogową](ROADMAP.md) projektu.
 
 ___
 License: CC BY-SA 4.0
