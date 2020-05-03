@@ -3,9 +3,7 @@
 Przede wszystkim dziękujemy za poświęcenie czasu na wniesienie wkładu.
 Oto zestaw wytycznych dotyczących wkładu w Platformie TMG.
 
-## Co powinienem wiedzieć przed rozpoczęciem współpracy?
-
-Kim jesteśmy?
+### Kim jesteśmy?
 
 Jesteśmy [Ruchem Miejskim Ludzie Dla Miasta](https://www.ludziedlamiasta.pl/) - organizacją pożytku publicznego (non-profit) zarejestrowaną w Krajowym Rejestrze Sądowym jako stowarzyszenie (KRS: 0000234445, NIP: 5992917499).
 
