@@ -27,14 +27,14 @@ Warunki te dotyczą twojego wkładu materiałów do produktu lub projektu stanow
 7. Niniejsze warunki podlegają prawu polskiemu. Wszelkie zasady wyboru prawa nie będą miały zastosowania. Jeśli są dostępne, proszę podać swoją nazwę użytkownika (nazwy użytkownika) i nazwę projektu (projektów) lub stron internetowych projektu, w odniesieniu do których chcesz przekazać materiały.
 
  Twoja nazwa użytkownika: 
- Nazwa projektu (lub strona internetowa projektu): 
- Twoje dane kontaktowe (Proszę wydrukować wyraźnie): 
- Twoje imię: 
- Nazwa Twojej firmy (jeśli dotyczy): 
- Adres pocztowy: 
- Telefon, faks i e-mail: 
- Twój podpis: 
- Data: 
+  * Nazwa projektu (lub strona internetowa projektu): 
+  * Twoje dane kontaktowe (Proszę wydrukować wyraźnie): 
+  * Twoje imię: 
+  * Nazwa Twojej firmy (jeśli dotyczy): 
+  * Adres pocztowy: 
+  * Telefon, faks i e-mail: 
+  * Twój podpis: 
+  * Data: 
   
 Aby dostarczyć nam te warunki, wydrukuj i wyślij e-mailem skan podpisaną umowy, korzystając z adresu e-mail kontakt@ludziedlamiasta.pl
 
