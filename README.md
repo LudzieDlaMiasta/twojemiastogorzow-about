@@ -8,6 +8,7 @@
 <img src="assets/tmg-logo.svg" width="250" alt="Logo TMG" />
 
 Projekt jest elementem działania w ramach inicjatywy [Smart City Gorzów](https://smartcity.gorzow.pl).
+
 <a href="https://smartcity.gorzow.pl/"><img src="assets/smartcity-logo.svg" width="250" alt="Logo TMG" /></a>
 
 ## Architektura techniczna platformy
