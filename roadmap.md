@@ -10,6 +10,7 @@ W pierwszym wydaniu planowane jest uruchomienie:
  * modułów funkcjonalnych:
    * Rada Miasta,
    * karty miejskie,
+   * biznes lokalny,
  * dashboard administracyjny,
  
 ### Release 1.1 - sierpień 2020 r.
