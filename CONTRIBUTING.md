@@ -11,11 +11,7 @@ Aby zapewnić stabilne działanie platformy, w szczególności aby zapewnić jej
 
 Chcielibyśmy, na ile to możliwe powstrzymać się od komercjalizacji platformy, w szczególności umieszczania reklam i odpłatnych usług w ramach platformy wierząc, że możliwa jest współpraca w celu budowania społeczności miasta, zgodnie z ideą ruchów miejskich.
 
-Próbowaliśmy pozyskać środki na realizację projektu z [Narodowego Instytutu Wolności](https://www.niw.gov.pl/) w ramach działań PROO oraz FIO, lecz mimo wysokich ocen nie udało się zdobyć finansowania. Dlatego staramy się zrealizować projekt działaniami oddolnymi, w oparciu do partnerstwo z innymi podmiotami oraz w formie wolontariatu.
-
-Ale utrzymanie platformy i jej stabilny rozwój, koordynowanie działań, marketing wymaga znacznego wysiłku oraz ciągłych działań.
-
-Rozwój i udostępnianie kolejnych funkcjonalności platformy **Twoje Miasto Gorzów** będzie zależał głównie od możliwości organizacyjnych oraz finansowych.
+Próbowaliśmy pozyskać środki na realizację projektu z [Narodowego Instytutu Wolności](https://www.niw.gov.pl/) w ramach działań PROO oraz FIO, lecz mimo wysokich ocen nie udało się zdobyć finansowania. Dlatego staramy się zrealizować projekt działaniami oddolnymi, w oparciu do partnerstwo z innymi podmiotami oraz w formie wolontariatu, choć jesteśmy świadomi, że utrzymanie platformy i jej stabilny rozwój, koordynowanie działań i działania marketingowe wymagają znacznego wysiłku, ciągłych działań oraz środków finansowych.
 
 ## Struktura organizacyjna projektu
 
