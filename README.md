@@ -25,7 +25,7 @@ Zobacz, jak możesz się [włączyć w realizację projektu](CONTRIBUTING.md) pr
 
 
 ## Mapa drogowa
-Zobacz aktualną [mapę drogową](ROADMAP.md) projektu.
+Zobacz aktualną [mapę drogową](roadmap.md) projektu.
 
 ___
 License: CC BY-SA 4.0
