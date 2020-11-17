@@ -28,7 +28,7 @@ Zadaniem Komitetu Sterującego jest podejmowanie decyzji w zakresie kierunków p
 
 ## Wspólpraca przy realizacji projektu
 Partnerami projektu są:
- * [make-SOFT](https://www.make-soft.pl/) - partner technologiczny, który dostarcza platformę w fromie usługi (Platform-As-A-Service), w szczególności odpowiada za rozwój funkcjonalności platformy oraz jej utrzymanie (development, infrastruktura, bezpieczeństwo informacji, pełnienie funkcji IOD).
+ * [make-SOFT](https://www.make-soft.pl/) - partner technologiczny, który dostarcza platformę w formie usługi SaaS (Software-As-A-Service), w szczególności odpowiada za rozwój funkcjonalności oraz jej utrzymanie (development, infrastruktura, bezpieczeństwo informacji, pełnienie funkcji IOD).
 
 Jeśli chcesz wnieść swój wkład w Projekcie TMG, musisz przeczytać i zaakceptować naszą [umowę licencyjną dla współtwórców](CLA.md).
 
