@@ -36,7 +36,7 @@ Jeśli chcesz wnieść swój wkład w Projekcie TMG, musisz przeczytać i zaakce
 Dlatego jeśli chcesz wesprzeć rozwój platformy, prosimy o [dokonywanie darowizn](https://www.ludziedlamiasta.pl/stowarzyszenie/przylacz-sie/) lub o zaangażowanie się w formie wolontariatu (np. testowania funkcjonalności, aktualizacji danych, promowania działań w mediach społecznościowych, opracowywania treści oraz grafiki).
 
 ## Zgłaszanie błędów i ulepszeń
-Jeśli znalazłeś błąd, propozycję funkcjonalności do istniejących modułów lub jeśli masz pomysł na coś nowego - [zgłoś problem lub propozycję](./issues).  
+Jeśli znalazłeś błąd, propozycję funkcjonalności do istniejących modułów lub jeśli masz pomysł na coś nowego - [zgłoś problem lub propozycję](https://github.com/LudzieDlaMiasta/twojemiastogorzow-about/issues).  
 
 Wyjaśnij problem i dołącz dodatkowe szczegóły, aby pomóc opiekunom odtworzyć problem:
 
